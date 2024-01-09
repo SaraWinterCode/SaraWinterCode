@@ -1,20 +1,3 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>MusicDot | Sobre a empresa</title>
-    <!-- Inclusão do arquivo CSS -->
-    <link rel="stylesheet" href="estilos.css">
-  </head>
-  <body>
-    <p>
-      O conteúdo desta tag será exibido em azul com fundo amarelo!
-    </p>
-    <p>
-      <strong>Também</strong> será exibido em azul com fundo amarelo!
-    </p>
-  </body>
-</html>
 
 ## 💡 Sobre Mim
 
