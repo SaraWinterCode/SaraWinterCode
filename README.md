@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaraWinterCode
-- 👀 I’m interested in learn Python
+- 👀 I’m interested in learn Programming Languages
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me uxsarawinter@gmail.com
