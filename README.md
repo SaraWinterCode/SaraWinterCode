@@ -3,7 +3,7 @@
 <head>
 <style>
   body {
-    background-color: #1c1c1c; /* Fundo preto */
+    background-color: #db0909; /* Fundo vermelho */
     color: #808080; /* Texto cinza */
     font-family: Arial, sans-serif; /* Fonte do texto */
   }
