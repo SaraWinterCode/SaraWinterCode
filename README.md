@@ -1,27 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  body {
-    background-color: #db0909; /* Fundo vermelho */
-    color: #808080; /* Texto cinza */
-    font-family: Arial, sans-serif; /* Fonte do texto */
-  }
-  header {
-    background-color: #333333; /* Cor de fundo do cabeçalho */
-    padding: 20px;
-    text-align: center;
-  }
-  h1 {
-    color: #ffffff; /* Cor do texto do cabeçalho */
-  }
-</style>
-</head>
-<body>
 
-<header>
-  <h1>Sara Winter</h1>
-</header>
 
 ## Sobre Mim
 
