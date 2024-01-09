@@ -5,8 +5,8 @@ Olá! Sou [Sara Winter], uma entusiasta de dados e programação. Recentemente, 
 
 ## 🚀 Projetos
 
-- **Projeto 1:** Breve descrição do projeto 1.
-- **Projeto 2:** Breve descrição do projeto 2.
+- **Projeto Medidas Estatísticas para o setor comercial:** Análise e Indicativos de Vendas, KPI´s, Relatórios e Ranking dos Vendedores. Ranking dos produtos vendidos por períodos. Análise Quantitativas e Qualitativas.
+- **Projeto Análise Financeira:** Análise Financeira Power BI. Relatórios, KPI´S. Balanço Patrimonial. 
 
 ## 🛠️ Habilidades
 
