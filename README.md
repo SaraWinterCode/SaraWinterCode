@@ -10,6 +10,9 @@ Olá! Sou [Sara Winter], uma entusiasta de dados e programação. Recentemente, 
 
 ## 🛠️ Habilidades
 
+- **SQL**
+- **M Linguage**
+- **Power Query**
 - **Python**
 - **Microsoft PowerBI**
 - **Inteligência Empresarial**
