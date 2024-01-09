@@ -1,3 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>MusicDot | Sobre a empresa</title>
+    <!-- Inclusão do arquivo CSS -->
+    <link rel="stylesheet" href="estilos.css">
+  </head>
+  <body>
+    <p>
+      O conteúdo desta tag será exibido em azul com fundo amarelo!
+    </p>
+    <p>
+      <strong>Também</strong> será exibido em azul com fundo amarelo!
+    </p>
+  </body>
+</html>
+
 ## 💡 Sobre Mim
 
 Olá! Sou [Sara Winter], uma entusiasta de dados e programação. Recentemente, concluí o curso Microsoft Power BI para Business Intelligence e Data Science e estou aprimorando minhas habilidades em Python.
