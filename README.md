@@ -3,49 +3,52 @@
 <head>
 <style>
   body {
-    background-color: #0373fc; /* Cor de fundo do corpo */
-    color: #0a0a0a; /* Cor do texto */
+    background-color: #1c1c1c; /* Fundo preto */
+    color: #808080; /* Texto cinza */
     font-family: Arial, sans-serif; /* Fonte do texto */
   }
   header {
-    background-color: #007bff; /* Cor de fundo do cabeçalho */
+    background-color: #333333; /* Cor de fundo do cabeçalho */
     padding: 20px;
     text-align: center;
   }
   h1 {
-    color: #fff; /* Cor do texto do cabeçalho */
+    color: #ffffff; /* Cor do texto do cabeçalho */
   }
 </style>
 </head>
 <body>
-# SaraWinterCode
+
+<header>
+  <h1>Sara Winter</h1>
+</header>
 
 ## Sobre Mim
 
-Olá! Sou [SaraWinter], uma entusiasta de dados e programação. Recentemente, concluí o curso Microsoft Power BI para Business Intelligence e Data Science e estou aprimorando minhas habilidades em Python.
+Olá! Sou [Sara Winter], uma entusiasta de dados e programação. Recentemente, concluí o curso Microsoft Power BI para Business Intelligence e Data Science e estou aprimorando minhas habilidades em Python.
 
 ## Projetos
 
-- [Projeto 1](link_para_o_projeto_1): Breve descrição do projeto 1.
-- [Projeto 2](link_para_o_projeto_2): Breve descrição do projeto 2.
+- **Projeto 1:** Breve descrição do projeto 1.
+- **Projeto 2:** Breve descrição do projeto 2.
 
 ## Habilidades
 
 - Python
-- Microsoft Power BI
-- Business Intelligence
-- Data Science
+- Microsoft PowerBI
+- Inteligência Empresarial
+- Ciência de Dados
 - Negócios
-- User Experience
+- Experiência de usuário
 
 ## Contato
 
-- LinkedIn: (https://www.linkedin.com/in/sara-winter-/)
-- GitHub: SaraWinterCode
+- LinkedIn: [Sara Winter no LinkedIn](https://www.linkedin.com/in/sara-winter-/)
+- GitHub: [SaraWinterCode](https://github.com/SaraWinterCode)
 
 ## Contribuições e Sugestões
 
-Aceito indicações, sugestões e colaborações em meus projetos. Fique à vontade para entrar em contato!
+Aceito cronogramas, sugestões e colaborações em meus projetos. Fique à vontade para entrar em contato!
 
 </body>
 </html>
